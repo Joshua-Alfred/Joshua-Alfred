@@ -1,6 +1,6 @@
 Hello there! 
 
-I'm a final year Undergraduate Student at Vellore Institute of Technology, Chennai. Proficient in Machine Learning, Deep Learning Architectures and Image Processing. 
+I'm a first year graduate student at New York University. Proficient in Machine Learning, Deep Learning Architectures and Image Processing. 
 I love to code, study new concepts in technology and to play the piano and guitar. 
 
 
