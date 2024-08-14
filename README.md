@@ -1,6 +1,6 @@
 Hello there! 
 
-I'm a first year graduate student at New York University. Proficient in Software Development Tools, Deep Learning Architectures, and Image Processing. 
+I'm a second year graduate student at New York University. Proficient in Software Development Tools, Deep Learning Architectures, and Image Processing. 
 I love to code, study new concepts in technology and to play the piano and guitar. 
 
 
